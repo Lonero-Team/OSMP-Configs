@@ -1,0 +1,6 @@
+{
+    "name": "Lonero",    
+    "symbol": "LNR",    
+    "algorithm": "Cryptonight",
+    "blockTime": 15
+}
